@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0954442845533d243ba265773b596e93
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Walking Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 143
+        width: 259
+        height: 588
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 156
+        width: 264
+        height: 577
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 156
+        width: 198
+        height: 595
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 154
+        width: 204
+        height: 617
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 150
+        width: 240
+        height: 623
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 154
+        width: 268
+        height: 610
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 154
+        width: 203
+        height: 610
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 154
+        width: 201
+        height: 639
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 152
+        width: 245
+        height: 621
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 154
+        width: 245
+        height: 595
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: Walking Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 147
+        width: 185
+        height: 630
+      alignment: 0
+      pivot: {x: .5, y: .5}
+  spritePackingTag: 
+  userData: 
